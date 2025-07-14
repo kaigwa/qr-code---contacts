@@ -18,12 +18,14 @@ a{
 
 button{
     margin-bottom: 10px;
-    background-color: orange;
+    background-color: #FF6B00;
     color: whitesmoke;
     height: 40px;
     width: 100%;
     border-style: none;
-    border-radius: 20px;
+    border-radius: 25px;
+    font-weight:540;
+    font-size: medium;
 }
 
 /* button:hover{
