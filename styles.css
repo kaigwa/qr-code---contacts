@@ -15,3 +15,23 @@ a{
     cursor: pointer;
     text-decoration: none;
 }
+
+button{
+    margin-bottom: 10px;
+    background-color: orange;
+    color: whitesmoke;
+    height: 40px;
+    width: 100%;
+    border-style: none;
+    border-radius: 20px;
+}
+
+/* button:hover{
+    background-color: whitesmoke;
+    color: orange;
+} */
+
+/* a:hover{
+    color: orange;
+    background-color: whitesmoke; 
+} */
